@@ -1,0 +1,22 @@
+@import "../../common/colors.scss";
+.card{
+    flex: 1;
+    background-color: $secondary-color;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    .movieTop{
+        width: 200px;
+        height: 180px;
+        img{
+            width: 100%;
+            height: 100%;
+            margin-bottom: 10px;
+        }
+    }
+    p{
+        margin-top: 10px;
+}
+.Link{
+    text-decoration: none;
+}
+}

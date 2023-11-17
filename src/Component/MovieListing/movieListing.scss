@@ -1,0 +1,12 @@
+@import "../../common/colors.scss";
+
+.movie-wrapper{
+    margin-top: 50px;
+    .movie-list{
+        padding: 20px;
+        .movie-container{
+            display: flex;
+            flex-wrap: wrap;
+        }
+    }
+}

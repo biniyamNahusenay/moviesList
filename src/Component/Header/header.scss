@@ -1,0 +1,27 @@
+@import "../../common/colors.scss";
+
+.header{
+    width: 100vw;
+    height: 40px;
+    margin-bottom: 60px;
+}
+.headerWrapper{
+    padding: 0px 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: $secondary-color;
+}
+h2{
+    color: white;
+   
+}
+.profile{
+    background-color: inherit;
+}
+img{
+    width: 70px;
+}
+.Link{
+ text-decoration: none;
+}
